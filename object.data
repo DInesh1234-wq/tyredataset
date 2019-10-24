@@ -1,0 +1,5 @@
+classes= 4
+train  = /home/movingnow/Downloads/YOLO-Annotation-Tool-master/YOLO-Annotation-Tool-master/train.txt  
+valid  =/home/movingnow/Downloads/YOLO-Annotation-Tool-master/YOLO-Annotation-Tool-master/test.txt  
+names = /home/movingnow/Downloads/YOLO-Annotation-Tool-master/YOLO-Annotation-Tool-master/obj.names  
+backup = /home/movingnow/Downloads/YOLO-Annotation-Tool-master/YOLO-Annotation-Tool-master/backup/
